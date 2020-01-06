@@ -1,0 +1,26 @@
+{
+  "name": "@jiangtj/hexo-config-plus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangtj-lab/hexo-config-plus.git"
+  },
+  "keywords": [
+    "hexo",
+    "hexo-plugin"
+  ],
+  "author": "Mr.J",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jiangtj-lab/hexo-config-plus/issues"
+  },
+  "homepage": "https://github.com/jiangtj-lab/hexo-config-plus#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
