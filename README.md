@@ -2,7 +2,7 @@
 [![](https://img.shields.io/npm/v/@jiangtj/hexo-config-plus.svg?style=popout-square)](https://www.npmjs.com/package/@jiangtj/hexo-config-plus)
 ![npm](https://img.shields.io/npm/l/@jiangtj/hexo-config-plus?style=popout-square)
 
-Read and override theme configuration or languages from _data
+Read and override theme configuration or languages from _data, extract from [NexT](https://github.com/theme-next/hexo-theme-next) theme
 
 ## Install
 
