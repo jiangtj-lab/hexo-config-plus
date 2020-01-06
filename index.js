@@ -23,7 +23,7 @@ hexo.on('generateBefore', () => {
   merge(hexo.theme.config, data[config.theme]);
 
   // Custom languages support.
-  if (data[config.languages]) {
+  if (!data[config.languages]) {
     return;
   }
   let mergeLang = (lang) => {
